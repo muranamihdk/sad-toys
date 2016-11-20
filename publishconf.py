@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://muranamihdk.github.io/pelican-page-centered'
+SITEURL = 'https://muranamihdk.github.io/sad-toys'
 RELATIVE_URLS = False
 
 #FEED_ALL_ATOM = 'blog/feeds/all.atom.xml'

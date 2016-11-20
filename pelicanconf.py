@@ -93,7 +93,7 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = [('Works', 'works/index.html'), ('Diary', 'diary/index.html'), ('Biography', 'bio.html'), ('About', 'about.html')]
 #SITESUBTITLE = 'A subtitle to appear in the header.'
-GITHUB_URL = 'https://github.com/muranamihdk/pelican-page-centered'
+GITHUB_URL = 'https://github.com/muranamihdk/sad-toys'
 
 # Markdown Extensions
 # ------------------
