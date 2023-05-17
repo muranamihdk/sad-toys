@@ -1,11 +1,11 @@
 # Sad Toys - Sample of Pelican Page-Centered Site
-This project is sample Pelican site which is page-centered; instead of article-centered, that is blog.
+This project is a sample Pelican site which is page-centered; instead of article-centered, that is blog.
 The generated site can be seen at [https://muranamihdk.github.io/sad-toys/](https://muranamihdk.github.io/sad-toys/).
 
 ## How to make the page-centered site by Pelican
 <p><a href="http://docs.getpelican.com/">Pelican</a> is a static site generator written in Python. It has two main types of content: the article and the page. The article is a blog post. The page is a non-chronological content and usually written as a part of the site in advance, e.g. like “About” or “Contact” pages.</p>
 <p>Pelican is mainly intended for an article-centered site, that is a blog. Its default settings and themes are suitable for the blogs. If you want to make a page-centered site instead of a blog, you must change some settings and customize templates of your theme.</p>
-<p> </p>
+<p>(This tutorial is written based on Pelican 3.6.3.) </p>
 <h3>1. Make a source directory be page-centered</h3>
 <p>[Before changes (default)]</p>
 <pre>yourproject/
